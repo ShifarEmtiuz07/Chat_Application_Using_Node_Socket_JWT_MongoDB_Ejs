@@ -1,10 +1,4 @@
-/*!
- * Toastify js 1.11.0
- * https://github.com/apvarun/toastify-js
- * @license MIT licensed
- *
- * Copyright (C) 2018 Varun A P
- */
+
 (function(root, factory) {
   if (typeof module === "object" && module.exports) {
     module.exports = factory();
